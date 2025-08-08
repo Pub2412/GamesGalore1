@@ -1,2 +1,2 @@
-# GamesGalore1
+# Games Galore Collection
 Simple Games Program in C++
